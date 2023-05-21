@@ -1,7 +1,7 @@
 // Copyright 2021 GHA Test Team
 #include <gtest/gtest.h>
 #define private public
-#include "textgen.h"
+#include "task.h"
 
 
 TEST(test1, Buyer_products_number) {
