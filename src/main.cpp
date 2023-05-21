@@ -1,7 +1,7 @@
 // Copyright 2021 GHA Test Team
 #include "task.h"
 
-
+/**/
 int main() {
     const unsigned cashbox_number = 5;
     const unsigned intake_intensity = 3;
