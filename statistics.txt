@@ -1,0 +1,28 @@
+cashbox_number = 5
+intake_intensity = 3
+service_intensity = 1
+average_products_number = 8
+max_queue_length = 10
+sampling_time = 500
+
+STATISTICAL DATA
+
+served byers number: 291
+unserved byers number: 1145
+average cashbox downtime: 249.328
+
+average queue length: 9.891
+average queue time: 16.3166
+average cashbox time: 8.14806
+failure probability: 0.797354
+relative_throughput: 0.202646
+absolute_throughput: 0.582
+
+THEORETICAL DATA
+
+average queue length: 9.736
+average queue time: 15.578
+average cashbox time: 8.000
+failure probability: 0.791
+relative_throughput: 0.208
+absolute_throughput: 0.624
