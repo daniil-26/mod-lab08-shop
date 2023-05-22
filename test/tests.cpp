@@ -2,7 +2,7 @@
 #include <gtest/gtest.h>
 #define private public
 #include "task.h"
-//
+
 
 TEST(test1, Buyer_products_number) {
     auto buyer = Buyer(7);
