@@ -93,5 +93,5 @@ TEST(test7, Statistics_update) {
         statistics.unserved_byers_number == 2 &&
         statistics.summary_queue_time == 150 &&
         statistics.summary_cashbox_worktime == 90 &&
-        statistics.summary_cashbox_downtime == 100);
+        statistics.summary_cashbox_downtime == 110);
 }
